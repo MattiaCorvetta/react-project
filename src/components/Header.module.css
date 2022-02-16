@@ -1,0 +1,15 @@
+.navBar{
+    background: #FFEA3F;
+    border-bottom: 2px solid red;
+    position:sticky;
+    width: 100%;
+    top: 0;
+    z-index: 9;
+}
+.logo{
+    max-width: 250px;
+    margin-right: 15px;
+}
+.nav-decoration{
+    color: red;
+}

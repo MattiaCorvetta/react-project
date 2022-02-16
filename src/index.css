@@ -1,0 +1,12 @@
+img{max-width: 100%;}
+a{
+  text-decoration: none;
+  color: darkslategray;
+}
+a:hover{
+  text-decoration: none;
+  color: darkslategrey
+}
+.content-container {
+  min-height: calc(100vh - 190px);
+}
